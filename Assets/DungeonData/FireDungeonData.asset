@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 089f76b15fed6de4893a929308f394b5, type: 3}
+  m_Name: FireDungeonData
+  m_EditorClassIdentifier: 
+  RoomGroundTiles:
+  - {fileID: 11400000, guid: 80e4c140310c0594082b9332181b52f0, type: 2}
+  - {fileID: 11400000, guid: e2d3f8572674f694cb6af3df8bf13b0e, type: 2}
+  - {fileID: 11400000, guid: 9f63d7cd842c42e41980f1d59d583855, type: 2}
+  - {fileID: 11400000, guid: b807896d6c4b87944b807056677cf498, type: 2}
+  - {fileID: 11400000, guid: c5760d5d1924ad345b6af3062f41e4c0, type: 2}
+  - {fileID: 11400000, guid: d9f497fa3d4eaf5449e47643fa212a12, type: 2}
+  - {fileID: 11400000, guid: 295d5e58479203d4c8f9495b32bd4f39, type: 2}
+  - {fileID: 11400000, guid: f9f3325ad1dec9d42a38d8c801d261d2, type: 2}
+  - {fileID: 11400000, guid: 888cf4da9997c704d8e1324223e5e6aa, type: 2}
+  RoomWallTiles:
+  - {fileID: 11400000, guid: c2d4e3ef5a917914d8ca2f930f8a1e74, type: 2}
+  - {fileID: 11400000, guid: 13492256882df5d4e937bf80636557fb, type: 2}
+  - {fileID: 11400000, guid: 304ee0e7d482e8746bb3b80a4da98cc4, type: 2}
+  RoomNorthDoor: {fileID: 11400000, guid: 96e5b4480a9892a439c317c2de9f91dc, type: 2}
+  RoomSouthDoor: {fileID: 11400000, guid: 96e5b4480a9892a439c317c2de9f91dc, type: 2}
+  RoomEastDoor: {fileID: 11400000, guid: 67b8256b0100af94ebf09e8d0ea35eb2, type: 2}
+  RoomWestDoor: {fileID: 11400000, guid: 64e60e6721232584596e9a9e52b1f41f, type: 2}
+  Enemies:
+  - {fileID: 238000298021412129, guid: c014ef8c8fbfe6c428ff9cc984156705, type: 3}
+  - {fileID: 1098247990421687379, guid: fcba9de9425314d46bb41c41c93c1de6, type: 3}
